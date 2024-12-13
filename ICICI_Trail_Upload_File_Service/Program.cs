@@ -14,17 +14,17 @@ namespace ICICI_Trail_Upload_File_Service
         /// </summary>
         static void Main()
         {
-            //ServiceBase[] ServicesToRun;
-            //ServicesToRun = new ServiceBase[]
-            //{
-            //    new Service1()
-            //};
-            //ServiceBase.Run(ServicesToRun);
+            ServiceBase[] ServicesToRun;
+            ServicesToRun = new ServiceBase[]
+            {
+                new Service1()
+            };
+            ServiceBase.Run(ServicesToRun);
 
 
-            Service1 scr = new Service1();
-            scr.OnDebug();
-            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+            //Service1 scr = new Service1();
+            //scr.OnDebug();
+            //System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
 
 
 

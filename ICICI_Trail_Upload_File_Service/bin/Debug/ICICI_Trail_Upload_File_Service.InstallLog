@@ -1,0 +1,136 @@
+﻿Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+Uninstalling assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Installing service Automated_ICICI_Trail...
+Service Automated_ICICI_Trail has been successfully installed.
+Creating EventLog source Automated_ICICI_Trail in log Application...
+Committing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Uninstalling assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Removing EventLog source Automated_ICICI_Trail.
+Service Automated_ICICI_Trail is being removed from the system...
+Service Automated_ICICI_Trail was successfully removed from the system.
+Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Installing service Automated_ICICI_Trail...
+Service Automated_ICICI_Trail has been successfully installed.
+Creating EventLog source Automated_ICICI_Trail in log Application...
+Committing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Uninstalling assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Removing EventLog source Automated_ICICI_Trail.
+Service Automated_ICICI_Trail is being removed from the system...
+Service Automated_ICICI_Trail was successfully removed from the system.
+Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Installing service Automated_ICICI_Trail...
+Service Automated_ICICI_Trail has been successfully installed.
+Creating EventLog source Automated_ICICI_Trail in log Application...
+Committing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Uninstalling assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Removing EventLog source Automated_ICICI_Trail.
+Service Automated_ICICI_Trail is being removed from the system...
+Service Automated_ICICI_Trail was successfully removed from the system.
+Installing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
+Installing service Automated_ICICI_Trail...
+Service Automated_ICICI_Trail has been successfully installed.
+Creating EventLog source Automated_ICICI_Trail in log Application...
+Committing assembly 'C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.InstallLog
+   assemblypath = C:\Users\Opo098393\Desktop\SurajNewProjects\Automated_ICICI_DATA\ICICI_Trail_Upload_File_Service\ICICI_Trail_Upload_File_Service\bin\Debug\ICICI_Trail_Upload_File_Service.exe
